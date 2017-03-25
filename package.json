@@ -1,0 +1,24 @@
+{
+  "name": "smsway",
+  "version": "0.0.5",
+  "description": "An SMS enqueue system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WayneEPL/smsway.git"
+  },
+  "keywords": [
+    "sms",
+    "gateway",
+    "queue"
+  ],
+  "author": "Athul Raj (Wayne Enterprises Pvt Ltd)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WayneEPL/smsway/issues"
+  },
+  "homepage": "https://github.com/WayneEPL/smsway#readme"
+}
